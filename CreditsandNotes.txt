@@ -1,0 +1,15 @@
+Notes
+ 
+- There could be a few bugs. Let me know.
+
+Links
+
+- https://openjfx.io/openjfx-docs/#introduction
+- JavaFx download: https://gluonhq.com/products/javafx/
+
+Credits 
+
+- .gifs are from tenor.com.
+
+- Font style is from the following link: https://www.ffonts.net/Blood-Crow-Condensed.font?text=DemoN+SlayeR 
+
