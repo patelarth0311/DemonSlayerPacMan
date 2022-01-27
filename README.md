@@ -33,7 +33,7 @@ Made for fun! Enjoy.
       -Note: I added the link in CreditsandNotes.txt.
   2) Download the files of this project. 
   3) Open the terminal.
-  4) cd to ArcadeGame/src/ds 
+  4) cd to ArcadeGame/src/dsAP
   5) export PATH_TO_FX=path/to/javafx-sdk-X/lib. Note: X denotes the current verison of JavaFx.  
   6) javac -d bin -cp bin --module-path $PATH_TO_FX --add-modules javafx.controls,javafx.fxml *.java
       - This creates a directory bin and consists of *.class files.
