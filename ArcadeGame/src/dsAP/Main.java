@@ -20,7 +20,7 @@ public class Main extends Application  {
 
 
 
-                GameLaunch gl = new GameLaunch(945, 945);
+                Game gl = new GameLaunch(945, 945);
                 VBox root = new VBox(gl);
 
                 root.setBackground(background);
